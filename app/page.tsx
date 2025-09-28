@@ -374,7 +374,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="border-t border-border py-12 px-6">
         <div className="max-w-6xl mx-auto text-center text-muted-foreground">
-          <p className="text-sm">Built with Next.js and Tailwind CSS. Deployed on Vercel.</p>
+          <p className="text-sm">Built with Next.js and Tailwind CSS.</p>
         </div>
       </footer>
     </div>
